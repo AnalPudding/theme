@@ -629,6 +629,10 @@
     background: hsla(266, 65%, 33%, 0);
 }
 
+.theme-light .or-3THJsp {
+	display: none;
+}
+
 /* VIP Tags */
 
 .avatar-1BDn8e[src*="362948682905157634"] + h2::after,
@@ -745,8 +749,6 @@
     1px 0 black, 
     0 -1px black !important;
 }
-
-
 
 /* Bug Fixes */
 .theme-light, .searchBar-6Kv8R2, .wrapper-2ZbzR9, .fixClipping-3qAKRb, .da-wrapper, .da-fixClipping, .root-1gCeng, .da-root, .fullscreenOnMobile-1bD22y, .da-fullscreenOnMobile, .da-scroller, .systemPad-3UxEGl, .da-systemPad, .messagesPopout-24nkyi, .da-messagesPopout {	background-color: rgba(255, 255, 255, 0);}
