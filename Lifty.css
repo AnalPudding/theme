@@ -2,7 +2,26 @@
 @import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
 @import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
 
-/* v.0.5 Updates*/
+:root {
+  --BG-image: url("https://i.imgur.com/cdaSplT.png");
+  --BG-image-blur: 4.5px;
+  --BG-serverlist-brightness: 0.;
+  --BG-left-brightness: 0.0;
+  --BG-right-brightness: 0.0;
+  --BG-popout-brightness: 0.0;
+  --BG-tint-colour: 255, 51, 159;
+  --BG-tint-brightness: 0;
+  --BG-gradient-one: 103,58,183;
+  --BG-gradient-two: 63,81,181;
+  --BG-gradient-direction: -45deg;
+  --BG-window-padding: 20px;
+  --BG-window-roundness: 10px;
+  --BG-left-right-split: 0;
+  --BG-font: "Uni+Sans+Heavy";
+  --lv1: #000;
+  --accent: #4200b8;
+}
+
 .role-2irmRk {
 	text-transform: uppercase;
 	border-radius: 5;
