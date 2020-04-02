@@ -2388,7 +2388,7 @@ html, span:not([class*="spinner-"]):not([class*="spinnerItem"]) {backface-visibi
 	font-size:var(--size2);
 }
 
-/* Wordmark test */
+/* wordmark test */
 
 .winButtonClose-1HsbF-:hover {
 	background: #e81123;
@@ -2411,7 +2411,6 @@ html, span:not([class*="spinner-"]):not([class*="spinnerItem"]) {backface-visibi
 
 .typeMacOS-3EmCyP {
     width:100%;
-    background:var(--lv1);
 }
 
 .typeMacOS-3EmCyP::after {
@@ -2421,7 +2420,7 @@ html, span:not([class*="spinner-"]):not([class*="spinnerItem"]) {backface-visibi
     height:100%;
     width:100%;
     z-index:-1;
-    background:var(--lv1);
+    background:var(--wordmarkbar);
     position:absolute;
 }
 
@@ -2460,8 +2459,6 @@ html, span:not([class*="spinner-"]):not([class*="spinnerItem"]) {backface-visibi
 	-webkit-app-region: no-drag
 }
 
-/*2.c. Wordmark*/
-
 .wordmark-2iDDfm {
 	opacity: 1;
 	width: 100%;
@@ -2485,7 +2482,7 @@ html, span:not([class*="spinner-"]):not([class*="spinnerItem"]) {backface-visibi
 .wordmark-2iDDfm:before {
 	content: var(--theme-name);
 	font-weight: 600;
-	color: var(--accent);
+	color: var(--wordmarktitle);
 	text-shadow: 0 0 12px;
 }
 
@@ -2505,7 +2502,7 @@ html, span:not([class*="spinner-"]):not([class*="spinnerItem"]) {backface-visibi
 }
 
 .avatar-1BDn8e[src*="669311027615105030"] + h2 .timestamp-3ZCmNB::before {
-	content: 'C U M  S T A I N';
+	content: 'CUM STAIN';
 	text-transform: uppercase;
 	font-size: 10px !important;
 	font-weight: 500;
